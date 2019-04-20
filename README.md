@@ -9,3 +9,6 @@ https://github.com/bipin-k/selenium/blob/master/src/test/java/example_02/LaunchF
 
 Java code to verify order of execution of TestNG Annotations,
 https://github.com/bipin-k/selenium/blob/master/src/test/java/example_26/TestNGAnnotationsOrder.java
+
+Java code to verify order of @Test annotations method execution order with no priority attribute,
+https://github.com/bipin-k/selenium/blob/master/src/test/java/example_27/TestNGMethodsExecutionOrder.java
