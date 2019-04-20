@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testng">
+    <test name="testng data provider">
+        <classes>
+            <class name="example_29.TestNGDataProvider">
+                <methods>
+                    <include name="getSearchEngineURL"/>
+                    <include name="getStateCapital"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

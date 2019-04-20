@@ -15,3 +15,6 @@ https://github.com/bipin-k/selenium/blob/master/src/test/java/example_27/TestNGM
 
 Java code to verify order of @Test annotations method executions with priority attribute,
 https://github.com/bipin-k/selenium/blob/master/src/test/java/example_28/TestNGPriorityMethodsExecution.java
+
+Java code to use DataProvider Class in TestNG to support data-driven testing,
+https://github.com/bipin-k/selenium/blob/master/src/test/java/example_29/TestNGDataProvider.java
