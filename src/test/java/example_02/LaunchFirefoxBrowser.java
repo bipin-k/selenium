@@ -9,6 +9,7 @@ import org.testng.annotations.Test;
 
 public class LaunchFirefoxBrowser {
     WebDriver driver;
+    // Config path to get the current working directory of the repo
     String CURRENT_DIRECTORY= System.getProperty("user.dir");
     String baseurl= "https://www.google.co.in/";
 
