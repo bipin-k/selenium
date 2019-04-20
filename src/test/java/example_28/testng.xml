@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testng">
+    <test name="testng order of methods with priority">
+        <classes>
+            <class name="example_28.TestNGPriorityMethodsExecution"/>
+        </classes>
+    </test>
+</suite>
