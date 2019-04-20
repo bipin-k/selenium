@@ -3,6 +3,10 @@ package example_26;
 import org.testng.annotations.*;
 
 /*
+
+Run corresponding testng file to get below results from following path,
+https://github.com/bipin-k/selenium/blob/master/src/test/java/example_26/testng.xml
+
 The Order of execution will be,
 @BeforeSuite
 @BeforeTest
