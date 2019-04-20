@@ -9,6 +9,7 @@ import org.testng.annotations.Test;
 public class LaunchChromeBrowser {
     WebDriver driver;
     String CURRENT_DIRECTORY= System.getProperty("user.dir");
+    String baseurl= "https://www.google.co.in/";
 
     @BeforeSuite
 
@@ -21,7 +22,7 @@ public class LaunchChromeBrowser {
     @Test
 
     public void test() throws InterruptedException{
-        driver.get("https://www.google.co.in/");
+        driver.get(baseurl);
         Thread.sleep(5000);
     }
 
@@ -30,5 +31,4 @@ public class LaunchChromeBrowser {
     public void quit(){
         driver.quit();
     }
-
 }
