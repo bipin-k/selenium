@@ -12,3 +12,6 @@ https://github.com/bipin-k/selenium/blob/master/src/test/java/example_26/TestNGA
 
 Java code to verify order of @Test annotations method execution order with no priority attribute,
 https://github.com/bipin-k/selenium/blob/master/src/test/java/example_27/TestNGMethodsExecutionOrder.java
+
+Java code to verify order of @Test annotations method executions with priority attribute,
+https://github.com/bipin-k/selenium/blob/master/src/test/java/example_28/TestNGPriorityMethodsExecution.java
