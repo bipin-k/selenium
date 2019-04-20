@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testng">
+    <test name="testng data provider">
+        <parameter name="searchEngine" value="Google"></parameter>
+        <parameter name="state" value="Uttar Pradesh"></parameter>
+        <parameter name="capital" value="Lucknow"></parameter>
+        <classes>
+            <class name="example_30.TestNGParameterization">
+                <methods>
+                    <include name="getSearchEngineName"/>
+                    <include name="getStateCapital"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

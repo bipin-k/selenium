@@ -18,3 +18,6 @@ https://github.com/bipin-k/selenium/blob/master/src/test/java/example_28/TestNGP
 
 Java code to use DataProvider Class in TestNG to support data-driven testing,
 https://github.com/bipin-k/selenium/blob/master/src/test/java/example_29/TestNGDataProvider.java
+
+Java code to implement parameterization in TestNG using TestNG xml file
+https://github.com/bipin-k/selenium/blob/master/src/test/java/example_29/TestNGParameterization.java
