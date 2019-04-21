@@ -10,7 +10,7 @@ import java.util.List;
 
 public class DataProviderFromCSV {
 
-    @DataProvider(name = "stateCapitals")
+    @DataProvider(name = "countryCapitals")
     public static Object[][] stateCapital() {
         int ctr = 0;
         Object[][] objects = new Object[0][];

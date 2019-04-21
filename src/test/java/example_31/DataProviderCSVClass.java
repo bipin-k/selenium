@@ -18,10 +18,10 @@ The capital of Germany is Berlin
 
 public class DataProviderCSVClass {
 
-    @Test(dataProviderClass = DataProviderFromCSV.class, dataProvider = "stateCapitals")
+    @Test(dataProviderClass = DataProviderFromCSV.class, dataProvider = "countryCapitals")
 
-    public void getStateCapital(String state, String capital){
-        System.out.println("The capital of "+state+" is "+capital);
+    public void getStateCapital(String country, String capital){
+        System.out.println("The capital of "+country+" is "+capital);
     }
 
 }
