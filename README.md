@@ -22,3 +22,5 @@ https://github.com/bipin-k/selenium/blob/master/src/test/java/example_29/TestNGD
 Java code to implement parameterization in TestNG using TestNG xml file
 https://github.com/bipin-k/selenium/blob/master/src/test/java/example_30/TestNGParameterization.java
 
+Java code to implement CSV File using Data Provider Class in TestNG,
+https://github.com/bipin-k/selenium/blob/master/src/test/java/example_31/DataProviderCSVClass.java
